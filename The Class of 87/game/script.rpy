@@ -3,8 +3,11 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define e = Character("Eileen")
-
+define J = Character("Joel bacon")
+define D = Character("Dick malony")
+define G = Character("Gangster")
+define M = Character("Mom")
+define Cwd = Character("Crowd")
 
 # The game starts here.
 
