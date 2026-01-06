@@ -28,9 +28,9 @@ label start:
 
     # These display lines of dialogue.
 
-    e "You've created a new Ren'Py game."
+    D "You've created a new Ren'Py game."
 
-    e "Once you add a story, pictures, and music, you can release it to the world!"
+    D "Once you add a story, pictures, and music, you can release it to the world!"
 
     # This ends the game.
 
