@@ -5,6 +5,7 @@
 
 define J = Character("Joel bacon")
 define D = Character("Dick malony")
+define R = Character("Rick malony")
 define G = Character("Gangster")
 define M = Character("Mom")
 define Cwd = Character("Crowd")
