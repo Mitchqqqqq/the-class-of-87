@@ -10,6 +10,7 @@ define G = Character("Gangster")
 define M = Character("Mom")
 define Cwd = Character("Crowd")
 define T = Character("Teacher")
+define J = Character("BLACK JESUS")
 
 # The game starts here.
 
@@ -116,5 +117,12 @@ label start:
 
     J "GAT DAMN IT Dick"
 
-    T "May black jesus have mercy on yo white ass"
+    T "May Black Jesus have mercy on yo white ass"
+
+    "The teacher sits down in the corner of the classroom the smoke of cigerettes fills the air"
+
+    D "what say you Black Jesus"
+
+    J "Yeah"
+
     return
