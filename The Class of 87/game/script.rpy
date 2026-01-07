@@ -3,6 +3,7 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
+
 define J = Character("Joel bacon")
 define D = Character("Dick malony")
 define R = Character("Rick malony")
@@ -91,6 +92,7 @@ label start:
 
     J "The white trash incarnate"
 
+<<<<<<< HEAD
     D "The white incarnate hath returned!"
 
     J "Lets get the fuck to class its cold as blitzens tits"
@@ -98,6 +100,15 @@ label start:
     scene school enter
 
     J "Hell its cold as fuck out here"
+=======
+    D "The white incarnate hath returned"
+
+    J "Lets get the fuck inside its cold as blitzens tits"
+
+    scene school enter
+
+    J "Hell its cold out"
+>>>>>>> b4181bb8a8cfdda4f08515ae723eccac8975def5
 
     D "Colder then my uncle Rick"
 
@@ -115,7 +126,11 @@ label start:
 
     D "Hello my loyal subjects how goes the life of my sons of bitches"
 
+<<<<<<< HEAD
     J "FOR FUCKS SAKE DICK!"
+=======
+    J "GAT DAMN IT Dick"
+>>>>>>> b4181bb8a8cfdda4f08515ae723eccac8975def5
 
     T "May Black Jesus have mercy on yo white ass"
 
