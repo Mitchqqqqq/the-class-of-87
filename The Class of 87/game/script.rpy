@@ -123,6 +123,8 @@ label start:
 
     D "what say you Black Jesus"
 
-    J "Yeah"
+    B "Nah he aight"
+
+    "Black Jesus returns to black heaven"
 
     return
