@@ -10,7 +10,7 @@ define G = Character("Gangster")
 define M = Character("Mom")
 define Cwd = Character("Crowd")
 define T = Character("Teacher")
-define J = Character("BLACK JESUS")
+define B = Character("BLACK JESUS")
 
 # The game starts here.
 
