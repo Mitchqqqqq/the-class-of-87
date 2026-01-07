@@ -14,22 +14,17 @@ define Cwd = Character("Crowd")
 
 label start:
 
-    # Show a background. This uses a placeholder by default, but you can
-    # add a file (named either "bg room.png" or "bg room.jpg") to the
-    # images directory to show it.
+    scene black
+    D "So your probobly wondering how I got here"
 
-    scene bg room
+    D "well it all started slightly before i met"
 
-    # This shows a character sprite. A placeholder is used, but you can
-    # replace it by adding a file named "eileen happy.png" to the images
-    # directory.
+    J "Hey Dick this is my story damn it"
 
-    show eileen happy
+    D "Yeah yeah alright fine"
 
-    # These display lines of dialogue.
+    J "so back to me it all started the day i met my friend Dick malony"
 
-    D "You've created a new Ren'Py game."
 
-    D "Once you add a story, pictures, and music, you can release it to the world!"
 
     return
