@@ -9,6 +9,8 @@ define R = Character("Rick malony")
 define G = Character("Gangster")
 define M = Character("Mom")
 define Cwd = Character("Crowd")
+define T = Character("Teacher")
+define J = Character("BLACK JESUS")
 
 # The game starts here.
 
@@ -89,13 +91,13 @@ label start:
 
     J "The white trash incarnate"
 
-    D "The white incarnate hath returned"
+    D "The white incarnate hath returned!"
 
-    J "Lets get the fuck inside its cold as blitzens tits"
+    J "Lets get the fuck to class its cold as blitzens tits"
 
     scene school enter
 
-    J "Hell its cold out"
+    J "Hell its cold as fuck out here"
 
     D "Colder then my uncle Rick"
 
@@ -113,7 +115,7 @@ label start:
 
     D "Hello my loyal subjects how goes the life of my sons of bitches"
 
-    J "GAT DAMN IT Dick"
+    J "FOR FUCKS SAKE DICK!"
 
     T "May Black Jesus have mercy on yo white ass"
 
