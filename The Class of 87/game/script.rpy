@@ -9,6 +9,7 @@ define R = Character("Rick malony")
 define G = Character("Gangster")
 define M = Character("Mom")
 define Cwd = Character("Crowd")
+define T = Character("Teacher")
 
 # The game starts here.
 
@@ -115,4 +116,5 @@ label start:
 
     J "GAT DAMN IT Dick"
 
+    T "May black jesus have mercy on yo white ass"
     return
