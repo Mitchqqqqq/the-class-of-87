@@ -83,6 +83,46 @@ label start:
 
     scene school
 
-    J "God damnit I hate my fuckin` life man!"
+    J "God damn it I hate my life"
+
+    D "Good day and shit"
+
+    J "The white trash incarnate"
+
+    D "The white incarnate hath returned"
+
+    J "Lets get the fuck inside its cold as blitzens tits"
+
+    scene school enter
+
+    J "Hell its cold out"
+
+    D "Colder then my uncle Rick"
+
+    "you walk down into the halls of the school"
+
+    scene school hall
+
+    Cwd "Yo have you heard Joel got mugged total idiot right"
+
+    J "Im about to kill a motherfucker"
+
+    D "Calm the hell down"
+
+    scene classroom
+
+    D "Hello my loyal subjects how goes the life of my sons of bitches"
+
+    J "GAT DAMN IT Dick"
+
+    T "May Black Jesus have mercy on yo white ass"
+
+    "The teacher sits down in the corner of the classroom the smoke of cigerettes fills the air"
+
+    D "what say you Black Jesus"
+
+    B "Nah he aight"
+
+    "Black Jesus returns to black heaven"
 
     return
