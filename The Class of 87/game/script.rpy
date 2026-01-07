@@ -9,8 +9,6 @@ define R = Character("Rick malony")
 define G = Character("Gangster")
 define M = Character("Mom")
 define Cwd = Character("Crowd")
-define T = Character("Teacher")
-define B = Character("BLACK JESUS")
 
 # The game starts here.
 
@@ -19,11 +17,11 @@ label start:
     scene black
     D "So your probobly wondering how I got here"
 
-    D "well it all started slightly before i met"
+    D "well it all started right before i met my best friend-"
 
-    J "Hey Dick this is my story damn it"
+    J "Hey Dick this is my story you retard fuck!"
 
-    D "Yeah yeah alright fine"
+    D "Yeah yeah alright jesus..."
 
     J "so back to me it all started the day i met my friend Dick malony"
 
@@ -39,21 +37,21 @@ label start:
 
     scene bedroom with fade
 
-    J "AWWW SHEEET!!!!"
+    J "AWWW SHIT!!!!"
 
-    M "WAT DOW HELL YOU SAY!!!!"
+    M "WHAT DID YOU JUST SAY!?!"
 
-    J "GAT DAMN IT sun FUCKEN BLINDED ME"
+    J "FUCK ME TO TEARS THE SUN FUCKEN BLINDED ME!"
 
-    M "YOU DO HOMEWORK NOW!!!!!"
+    M "JOEL DEMARCUS BACON! GET YOUR BUTT DOWNSTAIRS! YOURE GOING TO BE LATE FOR SCHOOL!"
 
     "You get your black ass out of bed"
 
-    "walking downstairs you find yourself a bag and set of books and pencils"
+    "walking downstairs you find your bag and your books with your pencils"
 
     scene home init
     
-    J "alright lets get the fuck out of here"
+    J "alright time to get the fuck out of here before my mom beats my ass"
 
     scene house ext
 
@@ -61,7 +59,7 @@ label start:
 
     scene bus ext
 
-    J "onto the murder bus i go"
+    J "onto the shitshow i go"
 
     scene black
 
@@ -71,11 +69,11 @@ label start:
 
     J "GAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 
-    J "FUCK ME SIDEWAYS"
+    J "FUCK ME SIDEWAYS!"
 
     J "Walking my way downtown walking fast trying not to get shot"
 
-    G "Yo pac"
+    G "Ayo joel run me yo shit!"
 
     J "FUCK MEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE!"
 
@@ -85,46 +83,6 @@ label start:
 
     scene school
 
-    J "God damn it I hate my life"
-
-    D "Good day and shit"
-
-    J "The white trash incarnate"
-
-    D "The white incarnate hath returned"
-
-    J "Lets get the fuck inside its cold as blitzens tits"
-
-    scene school enter
-
-    J "Hell its cold out"
-
-    D "Colder then my uncle Rick"
-
-    "you walk down into the halls of the school"
-
-    scene school hall
-
-    Cwd "Yo have you heard Joel got mugged total idiot right"
-
-    J "Im about to kill a motherfucker"
-
-    D "Calm the hell down"
-
-    scene classroom
-
-    D "Hello my loyal subjects how goes the life of my sons of bitches"
-
-    J "GAT DAMN IT Dick"
-
-    T "May Black Jesus have mercy on yo white ass"
-
-    "The teacher sits down in the corner of the classroom the smoke of cigerettes fills the air"
-
-    D "what say you Black Jesus"
-
-    B "Nah he aight"
-
-    "Black Jesus returns to black heaven"
+    J "God damnit I hate my fuckin` life man!"
 
     return
