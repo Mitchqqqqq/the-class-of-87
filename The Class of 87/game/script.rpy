@@ -4,14 +4,14 @@
 # name of the character.
 
 
-define J = Character("Joel bacon")
-define D = Character("Dick malony")
-define R = Character("Rick malony")
+define Jb = Character("Joel bacon")
+define Dm = Character("Dick malony")
+define Rm = Character("Rick malony")
 define G = Character("Gangster")
 define M = Character("Mom")
 define Cwd = Character("Crowd")
 define T = Character("Teacher")
-define J = Character("BLACK JESUS")
+define Bj = Character("BLACK JESUS")
 
 # The game starts here.
 
